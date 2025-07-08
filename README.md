@@ -3,6 +3,10 @@ Everdraw is a Python coded drawing application, currently in 1.2 release.
 IT CAN BE FALSELY FLAGGED AS MALWARE, THAT IS WHY I ADDED THE SOURCE CODE! ⚠️⚠️
 
 
+I needed to use releases since the file size got too big.
+
+V1.3: https://github.com/WindowsOverMac/Everdraw/releases/tag/everdraw
+
 Questions i expect and answers to them!
 ---------------------------------------------
 Q: Where can i find the .py source code
