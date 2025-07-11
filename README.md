@@ -7,7 +7,7 @@ IT CAN BE FALSELY FLAGGED AS MALWARE, THAT IS WHY I ADDED THE SOURCE CODE! âš ï¸
 LATEST
 -------
 
-
+V1.4 https://github.com/WindowsOverMac/Everdraw/releases/tag/everdraw1.4
 
 ------------------
 PREVIOUS VERSIONS
