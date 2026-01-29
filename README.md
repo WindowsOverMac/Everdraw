@@ -13,6 +13,8 @@ V1.5 https://github.com/WindowsOverMac/Everdraw/releases/tag/v1.5
 PREVIOUS VERSIONS
 ------------------
 V1.4: https://github.com/WindowsOverMac/Everdraw/releases/tag/everdraw1.4
+
+
 V1.3: https://github.com/WindowsOverMac/Everdraw/releases/tag/everdraw
 
 
